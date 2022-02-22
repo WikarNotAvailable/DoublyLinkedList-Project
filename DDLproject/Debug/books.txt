@@ -1,0 +1,15 @@
+1 Hobbit J.R.R._Tolkien 1937 453 Fantasy
+2 Krotka_historia_czasu Stephen_Hawking 1988 647 Naukowa
+3 Kod_Leonarda_da_Vinci Dan_Brown 2003 531 Thriller
+4 Rok_1984 George_Orwell 1949 328 Thriller
+5 Tlumacz_chorob Jhumpa_Lahiri 1999 511 Opowiadanie
+6 Dawca Lois_Lowry 1993 683 Science_fiction
+7 Paragraf_22 Joseph_Heller 1961 321 Satyra
+8 Kompleks_Portnoya Philip_Roth 1969 274 Powiesc
+9 Zabic_Drozda Harper_Lee 1960 291 Powiesc
+10 Droga Cormac_McCarthy 2006 408 Powiesc
+11 Rzeznia_numer_piec Kurt_Vonnegut 1969 519 Science_fiction
+12 Wielkie_nadzieje Charles_Dickens 1861 444 Powiesc
+13 Opowiesc_podrecznej Margaret_Atwood 1985 312 Antyutopia
+14 Persepolis Marjane_Satrapi 2000 496 Powiesc
+15 Lsnienie Stephen_King 1977 693 Horror

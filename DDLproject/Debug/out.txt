@@ -1,0 +1,28 @@
+12309312382 Julia Abrewicz 12.05.2003 Kasztanowa 9 Zabrze
+12390321991 Anna Barela 29.03.2002 Gryfia 16 Sosnowiec
+23189328288 Mariusz Dab 30.07.1999 Zlota 19 Katowice
+31290321932 Julia Krychowiak 10.01.1989 Srebrna 15 Sosnowiec
+21339294999 Marek Mlynarski 20.02.2001 Zawadzka 10 Zabrze
+12903210129 Michal Pychalkiewicz 19.06.1993 Mariacka 11 Krakow
+09321939199 Dominik Rybalski 17.03.1997 Ulanska 13 Katowice
+
+6 Dawca Lois_Lowry 1993 683 Science_fiction
+10 Droga Cormac_McCarthy 2006 408 Powiesc
+8 Kompleks_Portnoya Philip_Roth 1969 274 Powiesc
+2 Krotka_historia_czasu Stephen_Hawking 1988 647 Naukowa
+13 Opowiesc_podrecznej Margaret_Atwood 1985 312 Antyutopia
+7 Paragraf_22 Joseph_Heller 1961 321 Satyra
+14 Persepolis Marjane_Satrapi 2000 496 Powiesc
+4 Rok_1984 George_Orwell 1949 328 Thriller
+11 Rzeznia_numer_piec Kurt_Vonnegut 1969 519 Science_fiction
+5 Tlumacz_chorob Jhumpa_Lahiri 1999 511 Opowiadanie
+12 Wielkie_nadzieje Charles_Dickens 1861 444 Powiesc
+9 Zabic_Drozda Harper_Lee 1960 291 Powiesc
+
+09321939199 1 Rybalski 29.01.2021 5.02.2021
+09321939199 2 Rybalski 5.02.2021 10.02.2021
+21339294999 2 Mlynarski 23.01.2021 2.02.2021
+09321939199 3 Rybalski 10.02.2021 19.02.2021
+21339294999 4 Mlynarski 11.02.2021 19.02.2021
+12309312382 9 Abrewicz 3.03.2021 10.03.2021
+12309312382 11 Abrewicz 19.03.2021 28.03.2021
